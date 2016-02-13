@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="XmlSerializer">
+</Property><Property Name="Solution File" Value="C:\Work\Fuel_server\XmlSerializer_demo_and_src\XmlSerializer\XmlSerializer.sln">
+</Property><Property Name="Date" Value="Monday, June 22, 2015">
+</Property><Property Name="Time" Value="12:09:57 PM">
+</Property></Properties><Event ErrorLevel="0" Project="XmlSerializer" Source="XmlSerializer.csproj" Description="Project file successfully backed up as C:\Work\Fuel_server\XmlSerializer_demo_and_src\XmlSerializer\Backup\XmlSerializer.csproj">
+</Event><Event ErrorLevel="0" Project="XmlSerializer" Source="IXmlSerializationTag.cs" Description="File successfully backed up as C:\Work\Fuel_server\XmlSerializer_demo_and_src\XmlSerializer\Backup\IXmlSerializationTag.cs">
+</Event><Event ErrorLevel="0" Project="XmlSerializer" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Work\Fuel_server\XmlSerializer_demo_and_src\XmlSerializer\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="XmlSerializer" Source="BinaryContainer.cs" Description="File successfully backed up as C:\Work\Fuel_server\XmlSerializer_demo_and_src\XmlSerializer\Backup\BinaryContainer.cs">
+</Event><Event ErrorLevel="0" Project="XmlSerializer" Source="XmlDeserializer.cs" Description="File successfully backed up as C:\Work\Fuel_server\XmlSerializer_demo_and_src\XmlSerializer\Backup\XmlDeserializer.cs">
+</Event><Event ErrorLevel="0" Project="XmlSerializer" Source="XmlSerializationHelpers.cs" Description="File successfully backed up as C:\Work\Fuel_server\XmlSerializer_demo_and_src\XmlSerializer\Backup\XmlSerializationHelpers.cs">
+</Event><Event ErrorLevel="0" Project="XmlSerializer" Source="XmlSerializationTag.cs" Description="File successfully backed up as C:\Work\Fuel_server\XmlSerializer_demo_and_src\XmlSerializer\Backup\XmlSerializationTag.cs">
+</Event><Event ErrorLevel="0" Project="XmlSerializer" Source="XmlSerializer.cs" Description="File successfully backed up as C:\Work\Fuel_server\XmlSerializer_demo_and_src\XmlSerializer\Backup\XmlSerializer.cs">
+</Event><Event ErrorLevel="1" Project="XmlSerializer" Source="XmlSerializer.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="XmlSerializer" Source="XmlSerializer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="XmlSerializer" Source="XmlSerializer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="XmlSerializer" Source="XmlSerializer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
