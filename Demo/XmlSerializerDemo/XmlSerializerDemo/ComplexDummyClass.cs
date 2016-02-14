@@ -7,7 +7,7 @@ using System.Drawing;
 using System.Drawing.Drawing2D;
 
 namespace XmlSerializerDemo
-{
+{///////////////////////Changed
   [Serializable]
   public class ComplexDummyClass
   {
