@@ -11,6 +11,11 @@ namespace XmlSerializerDemo
   [Serializable]
   public class ComplexDummyClass
   {
+
+
+      /// <summary>
+      /// Second line update from Bekekekeke
+      /// </summary>
     /// <summary>
     /// 
     /// </summary>
