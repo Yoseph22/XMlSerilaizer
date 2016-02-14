@@ -1,0 +1,8 @@
+C:\Work\Fuel_server\XmlSerializer_demo_and_src\XmlSerializer\bin\Debug\Yaowi.Common.XmlSerializer.dll
+C:\Work\Fuel_server\XmlSerializer_demo_and_src\XmlSerializer\bin\Debug\Yaowi.Common.XmlSerializer.pdb
+C:\Work\Fuel_server\XmlSerializer_demo_and_src\XmlSerializer\obj\Debug\Yaowi.Common.XmlSerializer.dll
+C:\Work\Fuel_server\XmlSerializer_demo_and_src\XmlSerializer\obj\Debug\Yaowi.Common.XmlSerializer.pdb
+C:\Work\XmlSerializer\XmlSerializer\bin\Debug\Yaowi.Common.XmlSerializer.dll
+C:\Work\XmlSerializer\XmlSerializer\bin\Debug\Yaowi.Common.XmlSerializer.pdb
+C:\Work\XmlSerializer\XmlSerializer\obj\Debug\Yaowi.Common.XmlSerializer.dll
+C:\Work\XmlSerializer\XmlSerializer\obj\Debug\Yaowi.Common.XmlSerializer.pdb
