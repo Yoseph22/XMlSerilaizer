@@ -18,3 +18,5 @@ C:\Work\XmlSerializer\Demo\XmlSerializerDemo\XmlSerializerDemo\obj\Debug\XmlSeri
 C:\Work\XmlSerializer\Demo\XmlSerializerDemo\XmlSerializerDemo\obj\Debug\XmlSerializerDemo.Form1.resources
 C:\Work\XmlSerializer\Demo\XmlSerializerDemo\XmlSerializerDemo\obj\Debug\XmlSerializerDemo.Properties.Resources.resources
 C:\Work\XmlSerializer\Demo\XmlSerializerDemo\XmlSerializerDemo\obj\Debug\XmlSerializerDemo.csproj.GenerateResource.Cache
+C:\XCFER\XMLSERIALIZER\Demo\XmlSerializerDemo\XmlSerializerDemo\obj\Debug\XmlSerializerDemo.exe
+C:\XCFER\XMLSERIALIZER\Demo\XmlSerializerDemo\XmlSerializerDemo\obj\Debug\XmlSerializerDemo.pdb
